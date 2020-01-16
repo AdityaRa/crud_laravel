@@ -73,6 +73,7 @@
         </nav>
 
         <main class="py-4">
+        <!-- Konten Kreator akan di tempatkan disini -->
             @yield('content')
         </main>
     </div>
